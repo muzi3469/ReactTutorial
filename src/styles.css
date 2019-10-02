@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 5px;
+}
+div {
+  display: inline-block;
+  margin: 1px;
+}
+
+.PhoneInfoList {
+  width: 100%;
+}
